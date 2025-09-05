@@ -5,6 +5,5 @@
 
 
 Yane -  Scrum master
-Matheus - PO
-JaJay, Vivi, Lele - Dev team
-
+Matheus - Product Owner (PO)
+George, Vinícius, Leandro - Time de Desenvolvimento
