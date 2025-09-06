@@ -5,7 +5,7 @@
 
 ---
 
-
-Scrum master - Yane Silva
-Product Owner (PO) - Matheus Silva
-Time de Desenvolvimento - George Pinchemel, Vinícius Bonfim, Leandro Lima
+### Equipe: 
+- Scrum master - Yane Silva
+- Product Owner (PO) - Matheus Silva
+- Time de Desenvolvimento - George Pinchemel, Vinícius Bonfim, Leandro Lima
