@@ -1,7 +1,18 @@
-<h1 align="center"> 🍕Cairu Hut 🍕</h1>
+<h1 align="center"> 🍕 Cairu Hut 🍕</h1>
 
 
-### O sistema oferece uma experiência intuitiva, com um design simples e direto. É possível personalizar seu pedido de pizza online, escolhendo entre sabores, tamanhos, massas e bordas, e ainda adicionar ou remover ingredientes. Ao finalizar, você escolhe entre retirada na loja ou entrega em domicílio, com estimativas de tempo para ambas as opções. O aplicativo garante rapidez e segurança no pagamento, proporcionando uma experiência completa desde a escolha da pizza até a chegada em sua casa. Para a nossa equipe, a plataforma funciona como um painel central que organiza todos os pedidos, otimiza a produção na cozinha e gerencia as entregas. Com recursos de rastreamento em tempo real e otimização de rotas, garantimos que sua pizza chegue quentinha e no menor tempo possível. Com a Cairu Hut, nosso objetivo é oferecer não apenas as melhores pizzas, mas também a melhor experiência, do início ao fim.
+O sistema Cairu Hut oferece uma experiência digital completa e intuitiva para pedidos de pizza online, entregando valor tanto para o cliente quanto para a equipe interna, ao proporcionar uma experiência diferenciada de compra, aumentar a satisfação do cliente e a eficiência operacional, transformando cada pedido em uma entrega rápida, personalizada e confiável.
+
+Para o cliente:
+
+- Permite personalizar pedidos escolhendo sabores, tamanhos, massas e ingredientes adicionais;
+- Disponibiliza opções de retirada na loja ou entrega em domicílio, com estimativas de tempo precisas para cada opção;
+- Garante pagamento rápido e seguro, oferecendo uma experiência fluida desde a escolha da pizza até a entrega final;
+- Fornece rastreamento em tempo real do pedido, garantindo que a pizza chegue quente e no menor tempo possível.
+
+Para a equipe Cairu Hut:
+- Funciona como painel central de gestão de pedidos, organizando e priorizando os pedidos para otimizar a produção na cozinha;
+- Permite gerenciamento eficiente das entregas, com otimização de rotas e acompanhamento em tempo real, garantindo agilidade e qualidade.
 
 ---
 
